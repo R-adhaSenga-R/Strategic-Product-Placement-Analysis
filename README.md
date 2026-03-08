@@ -17,3 +17,7 @@ Retail sales dataset containing:
 - discount
 - region
 - profit}
+
+## Dashboard Preview
+
+![Strategic Product Placement Analysis](Strategic%20Product%20Placement%20Analysis.png)
